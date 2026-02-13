@@ -1,0 +1,15 @@
+{
+  "name": "saas-generator",
+  "version": "1.0.0",
+  "description": "AI SaaS Landing Page Generator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Pantane Mi",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
